@@ -9,6 +9,26 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, React, Javascript, Python, C#, C++**
 
+The WPM Typer Tracker app is a command-line application written in Python that allows users to test their typing speed and accuracy. The code for the app is structured as follows:
+
+main.py: The main Python file for the app. This file contains the logic for the typing test and records the user's WPM and accuracy. The file imports the passages.py module to get a list of passages of text to use in the typing test.
+passages.py: This module contains a list of passages of text for the app to use in the typing test. The passages are stored as strings in a list.
+To use the app, you will need to have Python 3 installed on your computer. To get started with the app, follow these steps:
+
+Clone this repository to your local machine.
+Open your terminal and navigate to the project directory.
+Run the following command to start the app:
+css
+Copy code
+python3 main.py
+The app will display a passage of text that you must type as quickly and accurately as possible. Once you have completed the test, the app will display your typing speed in WPM and your accuracy as a percentage. You can then choose to take the test again or quit the app.
+
+Contributing
+Contributions to the app are welcome! If you find a bug or have an idea for a new feature, feel free to submit a pull request or open an issue.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 - 👨‍💻 All of my projects are available at [https://github.com/alexrcenteno](https://github.com/alexrcenteno)
 
 - 📫 How to reach me **alex.centeno1991@gmail.com**
